@@ -1,0 +1,16 @@
+.error {
+    color: red;
+}
+
+.btn-remove {
+    margin-left: 5px;
+}
+
+th, td {
+    border: 1px solid;
+    padding: 5px;
+}
+
+.search-by-title {
+    margin: 25px 3px;
+}
